@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css?family=Margarine");
+
+.container {
+  padding: 10px;
+  margin: 20px;
+  border: 2px dashed black;
+  background-color: rgb(255, 217, 0);
+  font-size: 40px;
+  color: rgb(236, 119, 119);
+  font-family: "Margarine", cursive;
+}
+
+.button1 {
+  background-color: rgb(79, 224, 79);
+}
+
+.button2 {
+  background-color: rgb(184, 68, 184);
+}
+
+.button3 {
+  background-color: rgba(121, 67, 57, 0.479);
+}
+
+.message {
+  font-size: 20px;
+}
